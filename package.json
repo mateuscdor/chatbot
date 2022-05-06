@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "@hapi/boom": "^10.0.0",
     "ts-node": "^10.7.0"
   }
 }
