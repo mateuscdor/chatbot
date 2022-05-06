@@ -8,6 +8,7 @@
     "typescript": "^4.6.4"
   },
   "dependencies": {
+    "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "ts-node": "^10.7.0"
   }
 }
