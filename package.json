@@ -11,7 +11,7 @@
     "typescript": "^4.6.4"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "@adiwajshing/baileys": "^4.1.0",
     "@hapi/boom": "^10.0.0",
     "ts-node": "^10.7.0"
   }
